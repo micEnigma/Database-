@@ -22,8 +22,6 @@
 //DROP TABLE table_name -- Deletes table_name
 
 
-5.	UPDATE: is used to update existing records in a table.
-
-6.	ORDER BY: This sorts the result-set according to parameters in one or more columns.
-// SELECT * FROM MatchTable
+5.	ORDER BY: This sorts the result-set according to parameters in one or more columns.
+// SELECT * FROM MatchTable		-- Orders MatchTable by date.
    ORDER BY Date; 
